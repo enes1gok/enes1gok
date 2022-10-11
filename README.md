@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enes1gok
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning MATLAB
+- 🌱 I’m currently learning MySQL
 - 💞️ I love programming with Python.
 - 📫 How to reach me gokenes@yahoo.com
 
